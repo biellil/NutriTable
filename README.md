@@ -1,36 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>"NutriTable"</h1> É um aplicativo educativo desenvolvido com o propósito de ajudar os usuários a explorar e compreender melhor os valores nutricionais dos alimentos. Projetado como uma ferramenta interativa, o aplicativo oferece uma tabela abrangente de nutrientes, fornecendo informações detalhadas sobre vitaminas, minerais, calorias e macronutrientes presentes em uma ampla variedade de alimentos.
 
-## Getting Started
+Com uma interface intuitiva e fácil de usar, o NutriTable permite que os usuários pesquisem alimentos específicos ou naveguem por categorias para encontrar informações nutricionais relevantes. Cada alimento é acompanhado por detalhes precisos sobre sua composição nutricional, permitindo que os usuários identifiquem facilmente os benefícios à saúde e façam escolhas alimentares informadas.
 
-First, run the development server:
+Além disso, o NutriTable possui recursos educacionais integrados, como artigos informativos e dicas sobre dietas equilibradas. Esses recursos visam ajudar os usuários a entender a importância dos nutrientes em uma alimentação saudável e promover uma melhor consciência sobre hábitos alimentares.
 
-```bash
-npx json-server api.json -p 3333 -w
-npm run dev
-npm run devv
-# or
-yarn dev
-```
+Enquanto você explora o NutriTable, você estará aprendendo os fundamentos da programação. Este projeto foi desenvolvido com o objetivo de fornecer uma plataforma prática para aprimorar suas habilidades de programação, combinando o conhecimento nutricional com a prática de desenvolvimento de aplicativos.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Portanto, mergulhe neste aplicativo educativo, aprenda a programar enquanto descobre a tabela de nutrientes dos alimentos e aproveite para adquirir conhecimentos valiosos sobre nutrição e saúde. O NutriTable está aqui para ajudá-lo a alimentar sua mente e seu corpo de forma equilibrada e informada.
