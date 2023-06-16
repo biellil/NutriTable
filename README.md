@@ -2,8 +2,6 @@
 
 Com uma interface intuitiva e fácil de usar, o NutriTable permite que os usuários pesquisem alimentos específicos ou naveguem por categorias para encontrar informações nutricionais relevantes. Cada alimento é acompanhado por detalhes precisos sobre sua composição nutricional, permitindo que os usuários identifiquem facilmente os benefícios à saúde e façam escolhas alimentares informadas.
 
-Além disso, o NutriTable possui recursos educacionais integrados, como artigos informativos e dicas sobre dietas equilibradas. Esses recursos visam ajudar os usuários a entender a importância dos nutrientes em uma alimentação saudável e promover uma melhor consciência sobre hábitos alimentares.
-
 Enquanto você explora o NutriTable, você estará aprendendo os fundamentos da programação. Este projeto foi desenvolvido com o objetivo de fornecer uma plataforma prática para aprimorar suas habilidades de programação, combinando o conhecimento nutricional com a prática de desenvolvimento de aplicativos.
 
 Portanto, mergulhe neste aplicativo educativo, aprenda a programar enquanto descobre a tabela de nutrientes dos alimentos e aproveite para adquirir conhecimentos valiosos sobre nutrição e saúde. O NutriTable está aqui para ajudá-lo a alimentar sua mente e seu corpo de forma equilibrada e informada.
