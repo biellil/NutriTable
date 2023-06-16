@@ -1,55 +1,75 @@
 .container{
   height: 5rem;
-  border-bottom: 1px solid #a39d98;
-  background: #C3BCB7;
-
+  border-bottom: 1px solid #1e311662;
+  background: #42a714;
+  box-shadow: 0 -1px 10px 4px #000000;
   .content {
-    max-width: 1120px;
+   
+    
     height: 5rem;
     margin: 0 auto;
     padding: 0 2rem;
     display: flex;
     align-items: center;
-    
-    
 
     nav {
-      justify-content: center;
-      display: flex;
-      margin-left: 5rem;
-      height: 5rem;
       
-   
-    
+      justify-content: center; /* Centraliza horizontalmente */
+      align-items: center; /* Centraliza verticalmente */
+     display: flex;
       a {
         display: inline-block;
         padding: 0 0.5rem;
         height: 5rem;
         line-height: 5rem;
-        color:  #848790;
+        color:  #000000;
         transition: color 0.2s;   
-        font-size: 23px;
-        text-decoration: none     
+        font-size: 3rem;
+        text-decoration: none    
 
-        & + a {
-          margin-left: 2rem;
-        }
-
-        &:hover {
-          color:rgb(153, 128, 13);
-        }
-
-        &.active {
-          color:#180462;
-          font-weight: bold;
-        }
+     
       }
     
-    
+      
     div {
+      
+      border-radius: 0.9rem ;
+      box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+      width: 35rem;
      display: flex;
-      margin-left: 14rem;
+      margin-left: 8.5rem;
+      background-color: #ffffff;
+
+      input{
+        
+        width: 35rem;
+       border-radius: 0.9rem ;
+       border: #42a714;
+      
+        height: 2rem;
+
+      }
+      button{
+        cursor: pointer;
+        background-color: #ffffff;
+        border-radius: 0.9rem ;
     
+        border: #43a71400;
+        height: 2rem;
+
+       
+        
+        img{
+          height: 2rem;
+          
+        }
+      }
+     
+
+      button:active {
+        background-color: #4CAF50;
+       
+      }
     }
 
     @media (max-width: 1080px) {
@@ -84,4 +104,9 @@
     
   }
   }
+}
+.transparent { 
+   background: #30810bd1; /* Define a cor de fundo com transparência */
+  backdrop-filter: blur(5px); /* Aplica um leve desfoque ao fundo */
+  transform: 1s;
 }

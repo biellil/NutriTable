@@ -1,16 +1,12 @@
 import { Html, Head, Main, NextScript } from 'next/document';
 
-
-
-
- 
 export default function Document() {
  
   return (
     <Html>
       <Head >
  
-     <link rel="icon" href="/favicon.png" type="image/png" />
+     <link rel="icon" href="" type="" />
       </Head>
       <body>
       

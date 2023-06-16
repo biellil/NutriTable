@@ -5,9 +5,11 @@ import type { AppProps } from 'next/app'
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
-      <Header />
+      <div className="sticky-header">
+        <Header />
+      </div>
       <Component {...pageProps} />
     </>
   );
 }
-export default MyApp
+export default MyApp;
